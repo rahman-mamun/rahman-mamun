@@ -16,6 +16,6 @@
 - Form-App-Aarreavustajat: A Google Forms integration project for automating data collection and storage using Cloud Run.
 
 📫 Get in Touch:  
-- Feel free to reach out here on GitHub or connect with me on [WebSite](https://fi-di.xyz/)) to discuss projects, ideas, or potential collaborations!
+- Feel free to reach out here on GitHub or connect with me on [WebSite](https://fi-di.xyz/) to discuss projects, ideas, or potential collaborations!
 
 ![Mamun's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahman-mamun&show_icons=true&theme=transparent)
