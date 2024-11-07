@@ -1,21 +1,20 @@
-👋 Hi, I'm Mamun – a Cloud Developer with a focus on building robust and scalable solutions on Google Cloud Platform (GCP) and other cloud environments. With a background in administration and a passion for cloud technology, I thrive on leveraging tools like Docker, Kubernetes, and CI/CD pipelines to create and optimize infrastructure.
+### Hi there 👋, my name is Mamun
+#### I am  a Cloud Developer
+![I am  a Cloud Developer](https://media.licdn.com/dms/image/v2/D4D16AQETZkk8vC6tgA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708247330804?e=1736380800&v=beta&t=xln3qRXpQ6lhP-3Xv09Q0O9Q_Pc6o8Q1sm2yxIqnvsw)
 
-🚀 **What I Do:**  
-- **Cloud Solutions Architecture**: Experienced in designing and deploying solutions on GCP, including serverless architectures, Cloud Run, and Firebase integrations.
-- Automation & DevOps: Skilled in automation tools like Terraform and configuration management to streamline deployments and infrastructure management.
-- Backend Development: Building integrations, APIs, and cloud-based applications using Node.js and Python.
-- Project Management & Collaboration: Actively working in agile teams, with six years of experience in administrative roles that help me drive projects to completion effectively.
+With a background in administration and a passion for cloud technology, I thrive on leveraging tools like Docker, Kubernetes, and CI/CD pipelines to create and optimize infrastructure.
 
-🌱 Currently Learning:  
-- Experimenting with Terraform to deploy and manage infrastructure on UpCloud.
-- Diving deeper into cloud security practices and optimizing cost-effective solutions.
+Skills: GCP / UpCloud / AWS / Terraform / CloudFormation / Docker / Kubernetes / Cloud Run / Python / JavaScript / Node.js / Shell Scripting /  Firestore / MySQL / PostgreSQL /  Jenkins / GitHub Actions / CircleCI / Bitbucket Pipelines / Site24x7 / Prometheus / Grafana / Cloud Monitoring / 
 
-💼 Projects:
-- Anfra Pipedrive Integration: Integrating Pipedrive CRM with GCP using PubSub, Firestore, and Cloud Run.
-- NetBox IP Management: Creating a dynamic IP management solution using Python scripts and Docker on CentOS and Ubuntu.
-- Form-App-Aarreavustajat: A Google Forms integration project for automating data collection and storage using Cloud Run.
+- 🔭 I’m currently working on Lodhi Networks 
 
-📫 Get in Touch:  
-- Feel free to reach out here on GitHub or connect with me on [WebSite](https://fi-di.xyz/) to discuss projects, ideas, or potential collaborations!
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahman-mamun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahmanmamun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fi-di.xyz/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahman-mamun)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ![Mamun's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahman-mamun&show_icons=true&theme=transparent)
