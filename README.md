@@ -1,11 +1,10 @@
-Hi there 👋, my name is Mamun
-
-I am  a Cloud Developer
+### Hi there 👋, my name is Mamun
+#### I am  a Cloud Developer
 ![I am  a Cloud Developer](https://media.licdn.com/dms/image/v2/D4D16AQETZkk8vC6tgA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708247330804?e=1736380800&v=beta&t=xln3qRXpQ6lhP-3Xv09Q0O9Q_Pc6o8Q1sm2yxIqnvsw)
 
 With a background in administration and a passion for cloud technology, I thrive on leveraging tools like Docker, Kubernetes, and CI/CD pipelines to create and optimize infrastructure.
 
-Skills: GCP / Terraform / Docker / Kubernetes / Cloud Run / Python / JavaScript / Node.js / Shell Scripting /  Firestore / MySQL / PostgreSQL /  Jenkins / GitHub Actions / CircleCI / Bitbucket Pipelines / Site24x7 / Prometheus / Grafana / Cloud Monitoring  
+Skills: ☁️ GCP / UPCLOUD / AWS / 📜 TERRAFORM / CLOUDFORMATION 🐳 DOCKER / KUBERNETES / CLOUD RUN 🐍 PYTHON / JAVASCRIPT / NODE.JS / SHELL SCRIPTING 🎨 VUE.JS / REACT / JAVASCRIPT / HTML / CSS 🗄️ FIRESTORE / MYSQL / POSTGRESQL 🔄 JENKINS / GITHUB ACTIONS / CIRCLECI / BITBUCKET PIPELINES 🔗 REST / PIPEDRIVE API / GOOGLE APIS 🗃️ GIT / GITHUB / BITBUCKET 📈 SITE24X7 / PROMETHEUS / GRAFANA / CLOUD MONITORING 🖥️ LINUX (UBUNTU, CENTOS) / WINDOWS SERVER
 
 - 🔭 I’m currently working on Lodhi Networks 
 
