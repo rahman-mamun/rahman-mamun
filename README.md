@@ -4,8 +4,8 @@ Sure! Here's a cleaner and more visually appealing version of your GitHub profil
 
 ## 🚀 Hi there, I'm Mamun Rahman 👋  
 ### ☁️ Cloud Developer | DevOps Enthusiast  
+![Cloud Developer](https://i.imgur.com/yourimage.png)
 
-![Cloud Developer](https://raw.githubusercontent.com/rahman-mamun/REPOSITORY_NAME/branch_name/path/to/your_image.jpg)
 With a background in administration and a passion for cloud technology, I specialize in leveraging **Docker, Kubernetes, and CI/CD pipelines** to optimize cloud infrastructure and development workflows.  
 
 🔭 **Currently working at:** Louhi Networks  
