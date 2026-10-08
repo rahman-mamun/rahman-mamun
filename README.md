@@ -21,7 +21,7 @@ Stats cards kept with include_all_commits=true&count_private=true added, which m
 Two things need your hand:
 
 The Featured Projects table has three placeholder rows — GitHub's API is repo-scoped in this sandbox and robots.txt blocked the profile page, so I couldn't read your actual repos. Paste the repo list and I'll fill it in.
-https://fi-di.xyz/ and the stats hosts couldn't be reached from here (egress allowlist), so confirm your portfolio domain is still live before pushing.
+(https://port.rumon.site/) and the stats hosts couldn't be reached from here (egress allowlist), so confirm your portfolio domain is still live before pushing.
 Worth knowing: streak-stats.demolab.com is community-hosted and rate-limits hard on popular profiles — if it starts showing a broken image, self-hosting the streak-stats instance on your own Cloud Run project is a 10-minute job and would fit your setup well.
 
 
